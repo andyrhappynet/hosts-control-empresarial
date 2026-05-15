@@ -1,1 +1,58 @@
 
+# ============================================================
+# HOSTS FILE - DEPARTAMENTO: VENTAS
+# Repositorio: hosts-control-empresarial
+# Ultima modificacion: 2025-01-01
+# ============================================================
+# NO MODIFICAR MANUALMENTE - Este archivo es gestionado
+# automaticamente por el sistema de control de hosts.
+# ============================================================
+
+127.0.0.1 localhost
+::1 localhost
+
+# --- REDES SOCIALES ---
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 x.com
+0.0.0.0 www.x.com
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+
+# --- ENTRETENIMIENTO ---
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 spotify.com
+0.0.0.0 www.spotify.com
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+
+# --- JUEGOS ---
+0.0.0.0 store.steampowered.com
+0.0.0.0 miniclip.com
+0.0.0.0 www.miniclip.com
+0.0.0.0 poki.com
+0.0.0.0 www.poki.com
+
+# --- NOTICIAS / DISTRACCION ---
+0.0.0.0 buzzfeed.com
+0.0.0.0 www.buzzfeed.com
+
+# ============================================================
+# FIN DEL ARCHIVO HOSTS - VENTAS
+# ============================================================
