@@ -1,5 +1,5 @@
 # ============================================================
-# HOSTS FILE - DEPARTAMENTO: VENTAS
+# HOSTS FILE - DEPARTAMENTO: CALIDAD
 # Repositorio: hosts-control-empresarial
 # Ultima modificacion: 2025-01-01
 # ============================================================
@@ -24,20 +24,12 @@
 0.0.0.0 www.x.com
 0.0.0.0 snapchat.com
 0.0.0.0 www.snapchat.com
-0.0.0.0 pinterest.com
-0.0.0.0 www.pinterest.com
-0.0.0.0 reddit.com
-0.0.0.0 www.reddit.com
 
 # --- ENTRETENIMIENTO ---
-0.0.0.0 youtube.com
-0.0.0.0 www.youtube.com
 0.0.0.0 netflix.com
 0.0.0.0 www.netflix.com
 0.0.0.0 twitch.tv
 0.0.0.0 www.twitch.tv
-0.0.0.0 spotify.com
-0.0.0.0 www.spotify.com
 0.0.0.0 primevideo.com
 0.0.0.0 www.primevideo.com
 
@@ -48,10 +40,9 @@
 0.0.0.0 poki.com
 0.0.0.0 www.poki.com
 
-# --- NOTICIAS / DISTRACCION ---
-0.0.0.0 buzzfeed.com
-0.0.0.0 www.buzzfeed.com
+# NOTA: Calidad tiene acceso a YouTube y Spotify
+# para monitoreo de contenido de la empresa.
 
 # ============================================================
-# FIN DEL ARCHIVO HOSTS - VENTAS
+# FIN DEL ARCHIVO HOSTS - CALIDAD
 # ============================================================

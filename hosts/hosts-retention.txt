@@ -1,5 +1,5 @@
 # ============================================================
-# HOSTS FILE - DEPARTAMENTO: VENTAS
+# HOSTS FILE - DEPARTAMENTO: RETENTION
 # Repositorio: hosts-control-empresarial
 # Ultima modificacion: 2025-01-01
 # ============================================================
@@ -48,10 +48,12 @@
 0.0.0.0 poki.com
 0.0.0.0 www.poki.com
 
-# --- NOTICIAS / DISTRACCION ---
-0.0.0.0 buzzfeed.com
-0.0.0.0 www.buzzfeed.com
+# --- HERRAMIENTAS NO AUTORIZADAS ---
+0.0.0.0 4shared.com
+0.0.0.0 www.4shared.com
+0.0.0.0 wetransfer.com
+0.0.0.0 www.wetransfer.com
 
 # ============================================================
-# FIN DEL ARCHIVO HOSTS - VENTAS
+# FIN DEL ARCHIVO HOSTS - RETENTION
 # ============================================================

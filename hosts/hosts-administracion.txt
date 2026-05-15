@@ -1,0 +1,35 @@
+# ============================================================
+# HOSTS FILE - DEPARTAMENTO: ADMINISTRACION
+# Repositorio: hosts-control-empresarial
+# Ultima modificacion: 2025-01-01
+# ============================================================
+# NO MODIFICAR MANUALMENTE - Este archivo es gestionado
+# automaticamente por el sistema de control de hosts.
+# ============================================================
+
+127.0.0.1 localhost
+::1 localhost
+
+# --- BLOQUEOS MINIMOS PARA ADMINISTRACION ---
+# Solo se bloquean sitios de alto riesgo de seguridad
+
+# --- JUEGOS EN LINEA ---
+0.0.0.0 miniclip.com
+0.0.0.0 www.miniclip.com
+0.0.0.0 poki.com
+0.0.0.0 www.poki.com
+0.0.0.0 agame.com
+0.0.0.0 www.agame.com
+
+# --- SITIOS DE RIESGO DE SEGURIDAD ---
+0.0.0.0 4shared.com
+0.0.0.0 www.4shared.com
+0.0.0.0 thepiratebay.org
+0.0.0.0 www.thepiratebay.org
+
+# NOTA: Administracion tiene acceso amplio a internet
+# para el desempeno de sus funciones gerenciales.
+
+# ============================================================
+# FIN DEL ARCHIVO HOSTS - ADMINISTRACION
+# ============================================================
