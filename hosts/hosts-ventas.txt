@@ -25,6 +25,148 @@
 # ::1 localhost
 ### Begin ActivTrak
 
+# --- YOUTUBE COMPLETO ---
+127.0.0.1 youtube.com
+127.0.0.1 www.youtube.com
+127.0.0.1 m.youtube.com
+127.0.0.1 youtu.be
+127.0.0.1 youtube-nocookie.com
+127.0.0.1 www.youtube-nocookie.com
+127.0.0.1 youtubei.googleapis.com
+127.0.0.1 yt3.ggpht.com
+127.0.0.1 ytimg.com
+127.0.0.1 i.ytimg.com
+127.0.0.1 s.ytimg.com
+127.0.0.1 img.youtube.com
+127.0.0.1 music.youtube.com
+127.0.0.1 www.music.youtube.com
+127.0.0.1 studio.youtube.com
+127.0.0.1 tv.youtube.com
+127.0.0.1 googlevideo.com
+127.0.0.1 www.googlevideo.com
+127.0.0.1 redirector.googlevideo.com
+127.0.0.1 r1---sn-uxaxjvh-f5fs.googlevideo.com
+127.0.0.1 gvt1.com
+127.0.0.1 www.gvt1.com
+127.0.0.1 gvt2.com
+127.0.0.1 www.gvt2.com
+127.0.0.1 ggpht.com
+127.0.0.1 www.ggpht.com
+127.0.0.1 yt4.ggpht.com
+127.0.0.1 lh3.ggpht.com
+
+# --- STREAMING INTERNACIONAL ---
+127.0.0.1 netflix.com
+127.0.0.1 www.netflix.com
+127.0.0.1 nflxvideo.net
+127.0.0.1 www.nflxvideo.net
+127.0.0.1 nflximg.net
+127.0.0.1 www.nflximg.net
+127.0.0.1 nflxext.com
+127.0.0.1 www.nflxext.com
+127.0.0.1 primevideo.com
+127.0.0.1 www.primevideo.com
+127.0.0.1 disneyplus.com
+127.0.0.1 www.disneyplus.com
+127.0.0.1 hbomax.com
+127.0.0.1 www.hbomax.com
+127.0.0.1 max.com
+127.0.0.1 www.max.com
+127.0.0.1 hbo.com
+127.0.0.1 www.hbo.com
+127.0.0.1 starplus.com
+127.0.0.1 www.starplus.com
+127.0.0.1 paramountplus.com
+127.0.0.1 www.paramountplus.com
+127.0.0.1 peacocktv.com
+127.0.0.1 www.peacocktv.com
+127.0.0.1 appletv.apple.com
+127.0.0.1 tv.apple.com
+127.0.0.1 vimeo.com
+127.0.0.1 www.vimeo.com
+127.0.0.1 player.vimeo.com
+127.0.0.1 twitch.tv
+127.0.0.1 www.twitch.tv
+127.0.0.1 m.twitch.tv
+127.0.0.1 clips.twitch.tv
+127.0.0.1 kick.com
+127.0.0.1 www.kick.com
+127.0.0.1 dailymotion.com
+127.0.0.1 www.dailymotion.com
+127.0.0.1 rumble.com
+127.0.0.1 www.rumble.com
+127.0.0.1 odysee.com
+127.0.0.1 www.odysee.com
+127.0.0.1 tiktok.com
+127.0.0.1 www.tiktok.com
+127.0.0.1 vm.tiktok.com
+
+# --- ANIME ---
+127.0.0.1 crunchyroll.com
+127.0.0.1 www.crunchyroll.com
+127.0.0.1 funimation.com
+127.0.0.1 www.funimation.com
+127.0.0.1 hidive.com
+127.0.0.1 www.hidive.com
+127.0.0.1 animeflv.net
+127.0.0.1 www.animeflv.net
+127.0.0.1 animefenix.tv
+127.0.0.1 www.animefenix.tv
+127.0.0.1 animelatino.net
+127.0.0.1 www.animelatino.net
+127.0.0.1 jkanime.net
+127.0.0.1 www.jkanime.net
+127.0.0.1 tioanime.com
+127.0.0.1 www.tioanime.com
+127.0.0.1 monoschinos.com
+127.0.0.1 www.monoschinos.com
+127.0.0.1 latanime.com
+127.0.0.1 www.latanime.com
+127.0.0.1 animevibe.tv
+127.0.0.1 www.animevibe.tv
+127.0.0.1 animeid.tv
+127.0.0.1 www.animeid.tv
+127.0.0.1 otakustv.com
+127.0.0.1 www.otakustv.com
+
+# --- FUTBOL Y DEPORTES STREAMING ---
+127.0.0.1 pirlotv.fr
+127.0.0.1 www.pirlotv.fr
+127.0.0.1 pirlotv.uno
+127.0.0.1 www.pirlotv.uno
+127.0.0.1 pirlotvonline.pl
+127.0.0.1 www.pirlotvonline.pl
+127.0.0.1 futbollibrehd.pe
+127.0.0.1 www.futbollibrehd.pe
+127.0.0.1 futbollibretv.pe
+127.0.0.1 www.futbollibretv.pe
+127.0.0.1 rojadirecta.me
+127.0.0.1 www.rojadirecta.me
+127.0.0.1 tarjetarojaonline.com
+127.0.0.1 www.tarjetarojaonline.com
+127.0.0.1 livetv.sx
+127.0.0.1 www.livetv.sx
+127.0.0.1 streameast.live
+127.0.0.1 www.streameast.live
+127.0.0.1 espndeportes.espn.com
+127.0.0.1 espn.com
+127.0.0.1 www.espn.com
+
+# --- NOTICIAS VIDEO ---
+127.0.0.1 tvgo.americatv.com.pe
+127.0.0.1 www.tvgo.americatv.com.pe
+127.0.0.1 tvperu.gob.pe
+127.0.0.1 www.tvperu.gob.pe
+127.0.0.1 movistardeportes.pe
+127.0.0.1 www.movistardeportes.pe
+127.0.0.1 cnnespanol.cnn.com
+127.0.0.1 bbc.co.uk
+127.0.0.1 www.bbc.co.uk
+127.0.0.1 bbc.com
+127.0.0.1 www.bbc.com
+127.0.0.1 globoplay.globo.com
+127.0.0.1 www.globoplay.globo.com
+
 #...Google…..
 127.0.0.1 accounts.google.com
 127.0.0.1 www.accounts.google.com
