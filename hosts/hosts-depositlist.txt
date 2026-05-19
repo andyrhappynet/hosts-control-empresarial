@@ -3023,8 +3023,8 @@
 127.0.0.1	www.wordhippo.com
 127.0.0.1	wordreference.com
 127.0.0.1	www.wordreference.com
-127.0.0.1	workspace.google.com
-127.0.0.1	www.workspace.google.com
+#127.0.0.1	workspace.google.com
+#127.0.0.1	www.workspace.google.com
 127.0.0.1	wps.com
 127.0.0.1	www.wps.com
 127.0.0.1	wradio.com.mx
