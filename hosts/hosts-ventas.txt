@@ -325,10 +325,10 @@
 127.0.0.1 www.business.google.com
 127.0.0.1 calendar.google.com
 127.0.0.1 www.calendar.google.com
-127.0.0.1 chrome.google.com
-127.0.0.1 www.chrome.google.com
-127.0.0.1 chromewebstore.google.com
-127.0.0.1 www.chromewebstore.google.com
+#127.0.0.1 chrome.google.com
+#127.0.0.1 www.chrome.google.com
+#127.0.0.1 chromewebstore.google.com
+#127.0.0.1 www.chromewebstore.google.com
 127.0.0.1 classroom.google.com
 127.0.0.1 www.classroom.google.com
 127.0.0.1 cloud.google.com
