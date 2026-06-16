@@ -832,10 +832,10 @@
 127.0.0.1 www.chileatiende.gob.cl
 127.0.0.1 chinowong.pe
 127.0.0.1 www.chinowong.pe
-127.0.0.1 chrome.google.com
-127.0.0.1 www.chrome.google.com
-127.0.0.1 chromewebstore.google.com
-127.0.0.1 www.chromewebstore.google.com
+#127.0.0.1 chrome.google.com
+#127.0.0.1 www.chrome.google.com
+#127.0.0.1 chromewebstore.google.com
+#127.0.0.1 www.chromewebstore.google.com
 127.0.0.1 ciencia.nasa.gov
 127.0.0.1 www.ciencia.nasa.gov
 127.0.0.1 cigna.com
@@ -1509,7 +1509,7 @@
 127.0.0.1 google.co.il
 127.0.0.1 www.google.co.il
 127.0.0.1 google.com
-127.0.0.1 www.google.com
+#127.0.0.1 www.google.com
 127.0.0.1 google.com.br
 127.0.0.1 www.google.com.br
 127.0.0.1 google.com.ec
