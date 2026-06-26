@@ -20,19 +20,19 @@
 # ::1 localhost
 
 # --- YOUTUBE COMPLETO ---
-127.0.0.1 youtube.com
-127.0.0.1 www.youtube.com
-127.0.0.1 m.youtube.com
-127.0.0.1 youtu.be
-127.0.0.1 youtube-nocookie.com
-127.0.0.1 www.youtube-nocookie.com
-127.0.0.1 youtubei.googleapis.com
+#127.0.0.1 youtube.com
+#127.0.0.1 www.youtube.com
+#127.0.0.1 m.youtube.com
+#127.0.0.1 youtu.be
+#127.0.0.1 youtube-nocookie.com
+#127.0.0.1 www.youtube-nocookie.com
+#127.0.0.1 youtubei.googleapis.com
 127.0.0.1 yt3.ggpht.com
 127.0.0.1 ytimg.com
 127.0.0.1 i.ytimg.com
 127.0.0.1 s.ytimg.com
 127.0.0.1 img.youtube.com
-127.0.0.1 music.youtube.com
+#127.0.0.1 music.youtube.com
 127.0.0.1 www.music.youtube.com
 127.0.0.1 studio.youtube.com
 127.0.0.1 tv.youtube.com
