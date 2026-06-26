@@ -2065,8 +2065,6 @@
 127.0.0.1	www.music.amazon.com.mx
 127.0.0.1	music.stingray.com
 127.0.0.1	www.music.stingray.com
-127.0.0.1	music.youtube.com
-127.0.0.1	www.music.youtube.com
 127.0.0.1	musica.com
 127.0.0.1	www.musica.com
 127.0.0.1	musicca.com
@@ -3075,8 +3073,6 @@
 127.0.0.1	www.yairhasfari.github.io
 127.0.0.1	youngevitytradingacademy.zendesk.com
 127.0.0.1	www.youngevitytradingacademy.zendesk.com
-127.0.0.1	youtube.com
-127.0.0.1	www.youtube.com
 127.0.0.1	yuanpay-uk-mp.investing-digital.com
 127.0.0.1	www.yuanpay-uk-mp.investing-digital.com
 127.0.0.1	zacks.com
