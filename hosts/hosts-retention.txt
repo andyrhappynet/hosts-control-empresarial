@@ -380,10 +380,10 @@
 127.0.0.1 www.account.moonpay.com
 127.0.0.1 accounts.binance.com
 127.0.0.1 www.accounts.binance.com
-127.0.0.1 accounts.google.com
-127.0.0.1 www.accounts.google.com
-127.0.0.1 accounts.google.com.pe
-127.0.0.1 www.accounts.google.com.pe
+#127.0.0.1 accounts.google.com
+#127.0.0.1 www.accounts.google.com
+#127.0.0.1 accounts.google.com.pe
+#127.0.0.1 www.accounts.google.com.pe
 127.0.0.1 accounts.latamairlines.com
 127.0.0.1 www.accounts.latamairlines.com
 127.0.0.1 accounts.songkick.com
