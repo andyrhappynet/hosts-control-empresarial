@@ -814,8 +814,8 @@
 127.0.0.1 www.centrosur.gob.ec
 127.0.0.1 chartio.com
 127.0.0.1 www.chartio.com
-127.0.0.1 chatgpt.com
-127.0.0.1 www.chatgpt.com
+#127.0.0.1 chatgpt.com
+#127.0.0.1 www.chatgpt.com
 127.0.0.1 cheapflights.com
 127.0.0.1 www.cheapflights.com
 127.0.0.1 check-in.skyairline.com
